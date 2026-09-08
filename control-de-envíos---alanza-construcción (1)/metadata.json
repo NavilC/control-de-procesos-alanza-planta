@@ -1,0 +1,6 @@
+{
+  "name": "CONTROL DE ENVÍOS - ALANZA Construcción",
+  "description": "Sistema industrial integral para control de envíos, trazabilidad de estructuras metálicas, inspecciones QC, inventario y recepción en campo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
